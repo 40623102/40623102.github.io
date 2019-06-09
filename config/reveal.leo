@@ -56,6 +56,9 @@
 <v t="leo.20190610055515.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
+<v t="leo.20190610061405.1" a="E"><vh>目錄</vh>
+<v t="leo.20190610061405.2"><vh>投影片快捷鍵</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -273,7 +276,7 @@ Created by [40623102](https://github.com/40623102/40623102.github.io)
 
 1. 每周進度
 
-2. 手足球桌檯設計與繪圖(細部設計與 BOM)
+2. 自評
 
 
 
@@ -406,6 +409,23 @@ Created by [40623102](https://github.com/40623102/40623102.github.io)
  
  分配個人所負責之項目，Onshape繪製
  
+</t>
+<t tx="leo.20190610061405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610061405.2">## 自評
+
+&lt;img style="-webkit-user-select: none;cursor: zoom-in;" src="https://lh3.googleusercontent.com/4--MuXtRILZc13ZAMMQM_FB7kC74RIuiM7qmzZT170IwnWwC7zV-8zQDZ_v8InorAawOvz32dVsTCKTWNg-NGBC9M6xM1bVbyiVb31O32XKksZRk3D5kvG4l55K7RnAUugHajpxklFKtqxDjXP0Mv86Vvn3RUvmI_-1dPOreuxc6eFZywE3pxttCn0Iya3PJI3h-RCh5q-Oxi3mVzwQd1QC5yMv1Nm4PZDaX_UnpY6gpNG49WIoCv7vEmwXdjTh4kGLoMC8cIGMOZ8MhxyQQCDDFwWSJ9PYDRRt76XRZgg4gTHh2O2zZ-hy17aEATZuzIN9gNskloMLz-mv2_1fqThO3hzLPn_VmGgPU8gYjS6LjZkOsS3uBto5ZZm-3to-lfX-vGDYANd9a0lvdrxU5J_F0Fx9ReHdW2hlnRtjisnIgZJg8qhZ58bieXpqJYoV123qTy2sSflGAIToZCCiy4dZbQ8G9jUlMoqJOGCQ5I4UwYM6MjypZp_kVqxLCJTuc5x0OJUR3r_zSbwlnnoIZv6HBy7o6UR1yVX1_9DAZvXSBvLCHcZ9B3lADf6iOuo5yVEA1oAWy1YzmluoTHHFKhyk1UR1lGaaAdo2dFqc5hlxOrNRjKiAOMwj9FBcILI8GaE63QO0YGhdZ81qULKhvDph8ba4Uwas=w813-h404-no"height="400"width="900"&gt;
+
+
+
+
 </t>
 </tnodes>
 </leo_file>
